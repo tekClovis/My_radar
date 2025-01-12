@@ -1,0 +1,13 @@
+Air traffic simulation panel
+USAGE
+./my_radar [OPTIONS]
+OPTIONS
+path_to_script The path to the script file.
+-h print the usage and quit.
+USER INTERACTIONS
+`L' key enable/disable hitboxes and areas.
+`S' key enable/disable sprites.
+'Q' key enable/disable hitboxes quad_tree. 
+'Esc' key close the widow.
+'LeftMouseClick' grab a plane.
+'LeftMouseRelease' drop the plane.
