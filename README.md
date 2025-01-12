@@ -1,5 +1,5 @@
 
-<span style="color:#ED7F10; font-size: 10em;">
+<span style="color:#ed7f10; font-size: 10em;">
     <h1 align="center">
         <br>
             My Radar
