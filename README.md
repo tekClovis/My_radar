@@ -20,13 +20,7 @@
 * planes are distruct when they:
     * when they inter collide.
     * when they arrived at there end position.
-* all the information of the plane and towers are in a txt file
-* you can create your own scripts with the generator.py whith these command
-    ```bash
-    python3 generator.py -p (numb of plane) -t (number of tower)
-    #for more option use the -h flag like that
-    python3 generator.py -h
-    ```
+* all the information of the plane and towers are in a txt file (there is already test file in the scripts directory)
 
 ## How To Use
 
@@ -43,4 +37,10 @@ make
 
 #execute the binary you can use "-h" flag for more use information
 ./my_radar [path]
+```
+you can create your own scripts with the generator.py whith these command
+```bash
+python3 generator.py -p (numb of plane) -t (number of tower)
+#for more option use the -h flag like that
+python3 generator.py -h
 ```
