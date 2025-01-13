@@ -7,8 +7,9 @@
     </h1>
 </span>
 
-<img src="img/preview.gif" align="center">
-
+<div align="center">
+    <img src="img/preview.gif" align="center">
+</div>
 ## Subject:
 
 * My_radar is a simulation of a fly map where planes have: 
