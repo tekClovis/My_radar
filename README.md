@@ -21,6 +21,7 @@
     * when they inter collide.
     * when they arrived at there end position.
 * all the information of the plane and towers are in a txt file (there is already test file in the scripts directory)
+* the green rectangle that you can see on the preview is an opstimisation method to manage a lot of entity collision by cut the screen in different part to compar less planes with each other
 
 ## How To Use
 
